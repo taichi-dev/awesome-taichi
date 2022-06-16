@@ -31,18 +31,19 @@ A curated list of awesome Taichi applications and courses.
 - [Courses](#courses)
 
 
-
-## **Compiler**
+## Applications
+  
+### **Compiler**
 
 - [Taichi.js](https://github.com/AmesingFlank/taichi.js) - A JavaScript frontend for Taichi. 
 
 
-## **Image Processing**
+### **Image Processing**
 
 - [Poisson Image Editing](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) - A technique for image fusion without producing artifacts. 
 - [Taichi Procedural Painting](https://github.com/theYiran/Taichi_Procedure_Painting) - Imitating the painting process by generating images with different brush strokes. A dynamic window shows the comparison between the original image and the generated one.
 
-## **Math**
+### **Math**
 
 
 <div style="text-align: center"><table><tr>
@@ -81,12 +82,12 @@ Taichi Math Playground
 - [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - Visualization of the Mandelbrot set with Taichi.
 - [Taichi Math Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound) - Some attempts at mathematical visualisation with Taichi.
 
-## **Machine Learning**
+### **Machine Learning**
 
 - [DiffTaichi](https://github.com/taichi-dev/difftaichi) - Differentiable Programming for Physical Simulation.
 - [Stannum](https://github.com/ifsheldon/stannum) - Fusing Taichi into PyTorch.
 
-## **Renderer**
+### **Renderer**
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center, width: 180"> 
@@ -141,14 +142,14 @@ Chinoxel
 
 
 
-## **Robotics**
+### **Robotics**
 
 - [CPDeform](https://github.com/lester0866/CPDeform) - Code and data for paper Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics at ICLR 2022 (Spotlight).
 - [PlasticineLab](https://github.com/iquibalamhm/plasticine-lab-cmu) - A Soft-Body Manipulation Benchmark with Differentiable Physics.
 - [TaichiGAME](https://github.com/maksyuki/TaichiGAME) - A lightweight simulation engine in motion planning and control research fields.
 
 
-## **Simulation**
+### **Simulation**
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center, width: 180"> 
@@ -220,7 +221,7 @@ Taichi fvm2d fluid ns
 
 
 
-## **Voxel Art**
+### **Voxel Art**
 
 
 <div style="text-align: center"><table><tr>
