@@ -47,7 +47,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center, width: 180"> 
    <div align = "center">
      <a href="https://github.com/AmamiyaRenn/TaichiCourseS1Hw1">
-        <img height=“200” src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/math-jpg/Jellyfish-math1%201.jpg">   
+        <img height=“200” src="https://github.com/taichi-dev/awesome-taichi/blob/main/math-jpg/Jellyfish-math1%201.jpg">   
      </a>  
        
 [A Jellyfish-like Demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) 
@@ -55,7 +55,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/Y7K4/mandelbrot-viewer">
-        <img height=“200” src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/math-jpg/mal.jpg"> 
+        <img height=“200” src="https://github.com/taichi-dev/awesome-taichi/blob/main/math-jpg/mal.jpg"> 
     </a>
 
 [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer)
@@ -64,7 +64,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/TiGeekMan/Taichi-Math-Playgound">
-       <img height=“200” src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/math-jpg/polyhedra-mirrors%20.jpg">
+       <img height=“200” src="https://github.com/taichi-dev/awesome-taichi/blob/main/math-jpg/polyhedra-mirrors%20.jpg">
     </a>
       
 [Taichi Math Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound)
