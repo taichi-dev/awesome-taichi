@@ -17,6 +17,8 @@
 
 A curated list of awesome Taichi applications and courses.
  
+## Contents
+  
 - [Applications](#compiler)
     - [Compiler](#compiler)
     - [Image Processing](#image-processing)
