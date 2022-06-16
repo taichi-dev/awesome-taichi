@@ -292,7 +292,7 @@ A curated list of awesome Taichi applications and courses.
 
 ## Courses
 
-* [GAMES 201: Advanced Physics Engines 2020](https://github.com/taichi-dev/games201)(Chinese)
+* [GAMES 201: Advanced Physics Engines](https://github.com/taichi-dev/games201)(Chinese)
 * [Taichi Graphics Course S1](https://github.com/taichiCourse01)(Chinese)
 
 
