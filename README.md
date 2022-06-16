@@ -34,13 +34,13 @@ A curated list of awesome Taichi applications and courses.
 
 ## **Compiler**
 
-* [Taichi.js](https://github.com/AmesingFlank/taichi.js) - A JavaScript frontend for Taichi. 
+- [Taichi.js](https://github.com/AmesingFlank/taichi.js) - A JavaScript frontend for Taichi. 
 
 
 ## **Image Processing**
 
-* [Poisson Image Editing](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) - A technique for image fusion without producing artifacts. 
-* [Taichi Procedural Painting](https://github.com/theYiran/Taichi_Procedure_Painting) - Imitating the painting process by generating images with different brush strokes. A dynamic window shows the comparison between the original image and the generated one.
+- [Poisson Image Editing](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) - A technique for image fusion without producing artifacts. 
+- [Taichi Procedural Painting](https://github.com/theYiran/Taichi_Procedure_Painting) - Imitating the painting process by generating images with different brush strokes. A dynamic window shows the comparison between the original image and the generated one.
 
 ## **Math**
 
@@ -260,7 +260,7 @@ Half Broken
 - [A Little Red Flower](https://github.com/zhangxianggis/voxel-challenge) - Making a small red flower with voxel.
 - [Ambiguous Garage Roof](https://github.com/hejob/taichi-voxel-challenge-01) - Front and rear views of the garage roof and the car in the same setting.
 - [Another World](https://github.com/peng-bo/voxel-challenge/blob/main/planet.py) - Replicating the Earth with voxel.
-- [Bruce Lee](https://github.com/0xzhang/bruce-lee-voxel-challenge) - Bruce Lee, inspired by Jennifer Stafford’s knitting chart.
+- [Bruce Lee](https://github.com/0xzhang/bruce-lee-voxel-challenge) - Bruce Lee, inspired by Jennifer Stafford's knitting chart.
 - [Celestial Shower](https://github.com/Xinweigh/voxel-challenge) - An attempt to recreate a game scene using voxels.
 - [City in 99 lines](https://github.com/victoriacity/voxel-challenge) - Building a procedurally-generated city in 99 lines of Taichi code.
 - [Cloud City](https://github.com/raybobo/taichi-voxel-challenge) - Simulating a city in the clouds with voxels.
