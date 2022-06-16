@@ -259,7 +259,7 @@ Half Broken
 - [A Potted Tree](https://github.com/Evil-Ryu/voxel-challange) - An exquisite voxel reproduction of a bonsai tree.
 - [A Little Red Flower](https://github.com/zhangxianggis/voxel-challenge) - Making a small red flower with voxel.
 - [Ambiguous Garage Roof](https://github.com/hejob/taichi-voxel-challenge-01) - Front and rear views of the garage roof and the car in the same setting.
-- [Another World](https://github.com/peng-bo/voxel-challenge) - Replicating the Earth with voxel.
+- [Another World](https://github.com/peng-bo/voxel-challenge/blob/main/planet.py) - Replicating the Earth with voxel.
 - [Bruce Lee](https://github.com/0xzhang/bruce-lee-voxel-challenge) - Bruce Lee, inspired by Jennifer Stafford’s knitting chart.
 - [Celestial Shower](https://github.com/Xinweigh/voxel-challenge) - An attempt to recreate a game scene using voxels.
 - [City in 99 lines](https://github.com/victoriacity/voxel-challenge) - Building a procedurally-generated city in 99 lines of Taichi code.
