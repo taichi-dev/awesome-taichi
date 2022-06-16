@@ -187,7 +187,7 @@ Taichi fvm2d fluid ns
 - [Blender SDF Node Addon](https://github.com/hooyuser/blender_sdf_node_addon) - This add-on provides SDF Node System for SDF Rendering and Physics Simulation with SDF Collision.
 - [Cloth Simulation via Taichi](https://github.com/GZhonghui/tiCloth) - A cloth simulation using Taichi.
 - [Computational Fluid Dynamics in Taichi](https://github.com/houkensjtu/taichi-fluid) - A collection of CFD related resources for Taichi developers.
-- [Elastic Interaction of Particles](https://github.com/yikaiw/EIP)- A simulation of Elastic Interaction of Particles (EIP) implemented in Taichi.
+- [Elastic Interaction of Particles](https://github.com/yikaiw/EIP) - A simulation of Elastic Interaction of Particles (EIP) implemented in Taichi.
 - [Graphics lab THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) - Parallelized collision detection on the GPU with a rigid body physics simulator. 
 - [Ink Painting Taichi](https://github.com/youy028/Ink_Painting_Taichi) - A simulation demo of ink paintings.
 - [John Conway's Game of Life](https://github.com/wuyingnan/TaichiPlayground/tree/master/GameOfLife) - John Conway's Game of Life written in Taichi.
@@ -213,7 +213,7 @@ Taichi fvm2d fluid ns
 - [TaichiGraphics2021](https://github.com/PsycoTodd/TaichiGraphics2021) - This is the side work to have fun with Taichi Graphics course 2021.
 - [Taichi HW1 EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - An assignment of Taichi Graphics Course.
 - [TaichiMD](https://github.com/victoriacity/taichimd) - Interactive, GPU-accelerated Molecular (& Macroscopic) Dynamics using the Taichi programming language.
-- [Taichi PIC](https://github.com/bwzhao/TaichiPIC)- A particle-in-cell (PIC) simulation program used in plasma physics.
+- [Taichi PIC](https://github.com/bwzhao/TaichiPIC) - A particle-in-cell (PIC) simulation program used in plasma physics.
 - [Taichi Titanic 188](https://github.com/runck/Taichi_Titanic188) - An assignment of Taichi Graphics Course.
 - [Taichi Tetris](https://github.com/yuanming-hu/taichi_tetris) - A Tetris game with soft-body simulation implementing the MPM method.
   
