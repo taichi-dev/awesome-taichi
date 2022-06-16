@@ -90,7 +90,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center, width: 180"> 
    <div align = "center">
      <a href="https://github.com/bsavery/BlenderPythonRenderer">
-        <img height=“200” width="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/blenderrender.jpg">   
+        <img height=“200” width="200" src="https://github.com/taichi-dev/awesome-taichi/blob/main/render-jpg/blenderrender.jpg">   
      </a>  
        
 [Blender Renderer](https://github.com/bsavery/BlenderPythonRenderer) 
@@ -99,7 +99,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/grassFlamingo/taichi_hownwork">
-       <img height=“200” width="200"  src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/taichi-hw001.jpg">
+       <img height=“200” width="200"  src="https://github.com/taichi-dev/awesome-taichi/blob/main/render-jpg/taichi-hw001.jpg">
     </a>
       
 [A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork)
@@ -108,7 +108,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises">
-        <img height=“200” width="200"  src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/ray-tracying%201.jpg"> 
+        <img height=“200” width="200"  src="https://github.com/taichi-dev/awesome-taichi/blob/main/render-jpg/ray-tracying%201.jpg"> 
     </a>
 
 [Ray Tracing Experiments](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
@@ -117,7 +117,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/blefaudeux/chinoxel">
-        <img height=“200” width="200"  src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/chinoxel%201.jpg"> 
+        <img height=“200” width="200"  src="https://github.com/taichi-dev/awesome-taichi/blob/main/render-jpg/chinoxel%201.jpg"> 
     </a>
 
 [Chinoxel](https://github.com/blefaudeux/chinoxel) 
