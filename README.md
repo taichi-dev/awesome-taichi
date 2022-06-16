@@ -52,7 +52,7 @@ A curated list of awesome Taichi applications and courses.
         <img height=“200” src="https://github.com/taichi-dev/awesome-taichi/blob/main/math-jpg/Jellyfish-math1%201.jpg">   
      </a>  
        
-[A Jellyfish-like Demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) 
+A Jellyfish-like Demo
  
   <td style="text-align: center">     
   <div align = "center">
@@ -60,7 +60,7 @@ A curated list of awesome Taichi applications and courses.
         <img height=“200” src="https://github.com/taichi-dev/awesome-taichi/blob/main/math-jpg/mal.jpg"> 
     </a>
 
-[Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer)
+Mandelbrot Viewer
        
    </td>
   <td style="text-align: center">
@@ -69,7 +69,7 @@ A curated list of awesome Taichi applications and courses.
        <img height=“200” src="https://github.com/taichi-dev/awesome-taichi/blob/main/math-jpg/polyhedra-mirrors%20.jpg">
     </a>
       
-[Taichi Math Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound)
+Taichi Math Playground
  
 
   </td>
@@ -95,7 +95,7 @@ A curated list of awesome Taichi applications and courses.
         <img height=“200” width="200" src="https://github.com/taichi-dev/awesome-taichi/blob/main/render-jpg/blenderrender.jpg">   
      </a>  
        
-[Blender Renderer](https://github.com/bsavery/BlenderPythonRenderer) 
+Blender Renderer 
        
    </td>
   <td style="text-align: center">
@@ -104,7 +104,7 @@ A curated list of awesome Taichi applications and courses.
        <img height=“200” width="200"  src="https://github.com/taichi-dev/awesome-taichi/blob/main/render-jpg/taichi-hw001.jpg">
     </a>
       
-[A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork)
+A Ray Tracing Demo
         
   </td>
   <td style="text-align: center">     
@@ -113,7 +113,7 @@ A curated list of awesome Taichi applications and courses.
         <img height=“200” width="200"  src="https://github.com/taichi-dev/awesome-taichi/blob/main/render-jpg/ray-tracying%201.jpg"> 
     </a>
 
-[Ray Tracing Experiments](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
+Ray Tracing Experiments
  
   </td>
   <td style="text-align: center">     
@@ -122,7 +122,7 @@ A curated list of awesome Taichi applications and courses.
         <img height=“200” width="200"  src="https://github.com/taichi-dev/awesome-taichi/blob/main/render-jpg/chinoxel%201.jpg"> 
     </a>
 
-[Chinoxel](https://github.com/blefaudeux/chinoxel) 
+Chinoxel
 
   </td>
 
@@ -157,7 +157,7 @@ A curated list of awesome Taichi applications and courses.
         <img src="https://github.com/taichi-dev/awesome-taichi/blob/main/simulator-jpg/2d-fluid-simulator-1%201.jpg">   
      </a>  
        
-[2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) 
+2D Fluid Simulator
        
    </td>
   <td style="text-align: center">
@@ -166,7 +166,7 @@ A curated list of awesome Taichi applications and courses.
        <img src="https://github.com/taichi-dev/awesome-taichi/blob/main/simulator-jpg/sandyfluid-water%201.jpg">
     </a>
       
-[SandyFluid](https://github.com/ethz-pbs21/SandyFluid)
+SandyFluid
      
 
   </td>
@@ -176,7 +176,7 @@ A curated list of awesome Taichi applications and courses.
         <img src="https://github.com/taichi-dev/awesome-taichi/blob/main/simulator-jpg/cylinder%201.jpg">
      </a>
        
-[Taichi fvm2d fluid ns](https://github.com/hejob/taichi-fvm2d-fluid-ns)
+Taichi fvm2d fluid ns
 
   </td>
 
