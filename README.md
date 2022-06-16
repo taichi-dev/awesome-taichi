@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/Frame%2024%20(1).png" align="center" width="1200" height=“150”>
+<img src="https://github.com/taichi-dev/awesome-taichi/blob/main/voxel-art-jpg/Frame%2024%20(1).png" align="center" width="1200" height=“150”>
 
 <p align="center"> 
 <a href="https://github.com/taichi-dev/taichi"><img src="https://img.shields.io/github/stars/taichi-dev/taichi?label=Taichi-lang&style=social"></a>
