@@ -212,7 +212,7 @@ A curated list of awesome Taichi applications and courses.
 * [Taichi HW1 EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - An assignment of Taichi Graphics Course.
 * [TaichiMD](https://github.com/victoriacity/taichimd) - Interactive, GPU-accelerated Molecular (& Macroscopic) Dynamics using the Taichi programming language.
 * [Taichi PIC](https://github.com/bwzhao/TaichiPIC)- A particle-in-cell (PIC) simulation program used in plasma physics.
-* [Taichi Titanic188](https://github.com/runck/Taichi_Titanic188) - An assignment of Taichi Graphics Course.
+* [Taichi Titanic 188](https://github.com/runck/Taichi_Titanic188) - An assignment of Taichi Graphics Course.
 * [Taichi Tetris](https://github.com/yuanming-hu/taichi_tetris) - A Tetris game with soft-body simulation implementing the MPM method.
   
 
