@@ -230,7 +230,7 @@ A curated list of awesome Taichi applications and courses.
         <img src="https://github.com/taichi-dev/awesome-taichi/blob/main/voxel-art-jpg/duck%201.jpg">   
      </a>  
        
-[White Boat & Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) 
+White Boat & Yellow Duck
       
   </td>
    <td style="text-align: center">
@@ -239,7 +239,7 @@ A curated list of awesome Taichi applications and courses.
         <img src="https://github.com/taichi-dev/awesome-taichi/blob/main/voxel-art-jpg/little%20night%20lamp%201.jpg">
      </a>
        
-[Little Night Lamp](https://github.com/ying-lei/little_night_lamp)
+Little Night Lamp
        
    </td>
   <td style="text-align: center">
@@ -248,7 +248,7 @@ A curated list of awesome Taichi applications and courses.
        <img src="https://github.com/taichi-dev/awesome-taichi/blob/main/voxel-art-jpg/half_broken%20(1)%201.jpg">
     </a>
       
-[Half Broken](https://github.com/SuperSodaSea/voxel-challenge-alpha)
+Half Broken
 
   </td>
 
