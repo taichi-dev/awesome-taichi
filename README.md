@@ -2,7 +2,7 @@
 <img src="https://github.com/taichi-dev/awesome-taichi/blob/main/voxel-art-jpg/Frame%2024%20(1).png" align="center" width="1200" height=“150”>
 
 <p align="center"> 
-<a href="https://github.com/taichi-dev/taichi"><img src="https://img.shields.io/github/stars/taichi-dev/taichi?label=Taichi-lang&style=social"></a>
+<a href="https://github.com/taichi-dev/taichi"><img src="https://img.shields.io/github/stars/taichi-dev/taichi?label=Taichi lang&style=social"></a>
 <a href="https://www.youtube.com/channel/UCu-k1Wglo9Ll_o2j5Bxl4cw"><img src="https://img.shields.io/youtube/channel/views/UCu-k1Wglo9Ll_o2j5Bxl4cw?label=Taichi%20Graphics&style=social"></a>
 <a href="https://twitter.com/taichigraphics"><img src="https://img.shields.io/twitter/follow/taichigraphics?style=social"></a>
 </p>
