@@ -32,7 +32,7 @@ A curated list of awesome Taichi applications and courses.
 
 ## **Compiler**
 
-* [Taichi.js](https://github.com/AmesingFlank/taichi.js) - A Javascript frontend for Taichi. 
+* [Taichi.js](https://github.com/AmesingFlank/taichi.js) - A JavaScript frontend for Taichi. 
 
 
 ## **Image Processing**
