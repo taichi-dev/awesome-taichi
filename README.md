@@ -225,7 +225,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center, width: 180"> 
    <div align = "center">
      <a href="https://github.com/Ricahrd-Li/Taichi-voxel-challenge">
-        <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/duck%201.jpg">   
+        <img src="https://github.com/taichi-dev/awesome-taichi/blob/main/voxel-art-jpg/duck%201.jpg">   
      </a>  
        
 [White Boat & Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) 
@@ -234,7 +234,7 @@ A curated list of awesome Taichi applications and courses.
    <td style="text-align: center">
    <div align = "center">
      <a href="https://github.com/ying-lei/little_night_lamp">
-        <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/little%20night%20lamp%201.jpg">
+        <img src="https://github.com/taichi-dev/awesome-taichi/blob/main/voxel-art-jpg/little%20night%20lamp%201.jpg">
      </a>
        
 [Little Night Lamp](https://github.com/ying-lei/little_night_lamp)
@@ -243,7 +243,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/SuperSodaSea/voxel-challenge-alpha">
-       <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/half_broken%20(1)%201.jpg">
+       <img src="https://github.com/taichi-dev/awesome-taichi/blob/main/voxel-art-jpg/half_broken%20(1)%201.jpg">
     </a>
       
 [Half Broken](https://github.com/SuperSodaSea/voxel-challenge-alpha)
