@@ -15,7 +15,7 @@
 
   
 
-A curated list of awesome Taichi applications and courses.
+A curated list of awesome [Taichi](https://github.com/taichi-dev/taichi) applications and resources.
  
 ## Contents
   
@@ -295,7 +295,7 @@ Half Broken
 
 ## Courses
 
-- [GAMES 201: Advanced Physics Engines](https://github.com/taichi-dev/games201)(Chinese)
-- [Taichi Graphics Course S1](https://github.com/taichiCourse01)(Chinese)
+- [GAMES 201: Advanced Physics Engines](https://yuanming.taichi.graphics/teaching/2020-games201/)
+- [Taichi Graphics Course S1](https://github.com/taichiCourse01) (Chinese)
 
 
