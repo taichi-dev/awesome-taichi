@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.zhihu.com/org/tai-ji-tu-xing"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-view-blue")</a>
+<a href="https://www.zhihu.com/org/tai-ji-tu-xing"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-view-blue"></a>
 <a href="https://space.bilibili.com/1779922645"><img src="https://img.shields.io/badge/Bilibili-view-blue"></a>
 <a href="https://join.slack.com/t/taichicommunity/shared_invite/zt-14ic8j6no-Fd~wKNpfskXLfqDr58Tddg"><img src="https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red"></a>
 
@@ -20,11 +20,12 @@ A curated list of awesome [Taichi](https://github.com/taichi-dev/taichi) applica
 ## Contents
   
 - [Applications](#applications)
-    - [Compiler](#compiler)
-    - [Image Processing](#image-processing)
-    - [Math](#math)
-    - [Machine Learning](#machine-learning)
-    - [Renderer](#renderer)
+  - [Compiler](#compiler)
+  - [Image Processing](#image-processing)
+  - [Math](#math)
+  - [Machine Learning](#machine-learning)
+  - [Optics](#optics)
+  - [Renderer](#renderer)
   - [Robotics](#robotics)
   - [Simulation](#simulation)
   - [Voxel Art](#voxel-art)
@@ -45,9 +46,8 @@ A curated list of awesome [Taichi](https://github.com/taichi-dev/taichi) applica
 
 ### **Math**
 
-
 <div style="text-align: center"><table><tr>
-  <td style="text-align: center, width: 180"> 
+  <td style="text-align: center;width: 180"> 
    <div align = "center">
      <a href="https://github.com/AmamiyaRenn/TaichiCourseS1Hw1">
         <img height=“200” src="https://github.com/taichi-dev/awesome-taichi/blob/main/math-jpg/Jellyfish-math1%201.jpg">   
@@ -86,6 +86,10 @@ Taichi Math Playground
 
 - [DiffTaichi](https://github.com/taichi-dev/difftaichi) - Differentiable Programming for Physical Simulation.
 - [Stannum](https://github.com/ifsheldon/stannum) - Fusing Taichi into PyTorch.
+
+### **Optics**
+![](optics-jpg/cameray.jpg)
+- [Cameray](https://github.com/yslib/Cameray) - It is a lens editor and simulator implemented in Taichi.
 
 ### **Renderer**
 
@@ -132,7 +136,6 @@ Chinoxel
 
 - [A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork) - A ray tracing demo powered by Taichi. 
 - [Blender Renderer](https://github.com/bsavery/BlenderPythonRenderer) - A GPU renderer for prototyping and research written purely in python.
-- [Cameray](https://github.com/yslib/Cameray) - It is a lens editor and simulator implemented in Taichi.
 - [Chinoxel](https://github.com/blefaudeux/chinoxel) - Trying to implement Plenoxels using Taichi. 
 - [Differender](https://github.com/nanovis/Differender) - Taichi-based differentiable SciVis renderer for PyTorch.
 - [Ray Tracing Experiment](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises) - Parallelized collision detection implemented in Taichi.
