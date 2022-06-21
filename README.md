@@ -94,7 +94,7 @@ Taichi Math Playground
 ### **Renderer**
 
 <div style="text-align: center"><table><tr>
-  <td style="text-align: center, width: 180"> 
+  <td style="text-align: center"> 
    <div align = "center">
      <a href="https://github.com/bsavery/BlenderPythonRenderer">
         <img height=“200” width="200" src="https://github.com/taichi-dev/awesome-taichi/blob/main/render-jpg/blenderrender.jpg">   
@@ -161,7 +161,7 @@ Chinoxel
 ### **Simulation**
 
 <div style="text-align: center"><table><tr>
-  <td style="text-align: center, width: 180"> 
+  <td style="text-align: center"> 
    <div align = "center">
      <a href="https://github.com/takah29/2d-fluid-simulator">
         <img src="https://github.com/taichi-dev/awesome-taichi/blob/main/simulator-jpg/2d-fluid-simulator-1%201.jpg">   
@@ -235,7 +235,7 @@ Taichi fvm2d fluid ns
 
 
 <div style="text-align: center"><table><tr>
-  <td style="text-align: center, width: 180"> 
+  <td style="text-align: center"> 
    <div align = "center">
      <a href="https://github.com/Ricahrd-Li/Taichi-voxel-challenge">
         <img src="https://github.com/taichi-dev/awesome-taichi/blob/main/voxel-art-jpg/duck%201.jpg">   
