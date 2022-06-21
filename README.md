@@ -101,10 +101,10 @@ Taichi Math Playground
      </a>  
        
 Blender Renderer
-   </div> 
+   </td></div> 
 
        
-   </td>
+   
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/grassFlamingo/taichi_hownwork">
@@ -112,10 +112,9 @@ Blender Renderer
     </a>
       
 A Ray Tracing Demo
-   </div> 
+   </td></div> 
 
         
-  </td>
   <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises">
@@ -123,7 +122,7 @@ A Ray Tracing Demo
     </a>
 
 Ray Tracing Experiments
-  </div> 
+  </td></div> 
 
  
   </td>
@@ -135,9 +134,9 @@ Ray Tracing Experiments
 
 Chinoxel
 
-  </div>
+  </td></div>
 
-</td></tr></table>
+</tr></table>
 
 
 - [A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork) - A ray tracing demo powered by Taichi. 
