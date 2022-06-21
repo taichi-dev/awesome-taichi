@@ -51,19 +51,21 @@ A curated list of awesome [Taichi](https://github.com/taichi-dev/taichi) applica
    <div align = "center">
      <a href="https://github.com/AmamiyaRenn/TaichiCourseS1Hw1">
         <img height=“200” src="https://github.com/taichi-dev/awesome-taichi/blob/main/math-jpg/Jellyfish-math1%201.jpg">   
-     </a>  
-       
+     </a> 
+    
 A Jellyfish-like Demo
- 
-  <td style="text-align: center">     
-  <div align = "center">
+   </div> 
+   
+   
+  <td style="text-align: center">
+    <div align = "center">
     <a href="https://github.com/Y7K4/mandelbrot-viewer">
         <img height=“200” src="https://github.com/taichi-dev/awesome-taichi/blob/main/math-jpg/mal.jpg"> 
     </a>
-
+   
 Mandelbrot Viewer
-       
-   </td>
+   </div>
+   
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/TiGeekMan/Taichi-Math-Playgound">
@@ -71,12 +73,10 @@ Mandelbrot Viewer
     </a>
       
 Taichi Math Playground
- 
+  </div> 
 
-  </td>
-    
-</tr></table></div>
 
+  </td></tr></table>
   
 - [A Jellyfish-like Demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) - Modifications based on the Julia Set to produce jellyfish-like effects.
 - [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - Visualization of the Mandelbrot set with Taichi.
@@ -100,7 +100,9 @@ Taichi Math Playground
         <img height=“200” width="200" src="https://github.com/taichi-dev/awesome-taichi/blob/main/render-jpg/blenderrender.jpg">   
      </a>  
        
-Blender Renderer 
+Blender Renderer
+   </div> 
+
        
    </td>
   <td style="text-align: center">
@@ -110,6 +112,8 @@ Blender Renderer
     </a>
       
 A Ray Tracing Demo
+   </div> 
+
         
   </td>
   <td style="text-align: center">     
@@ -119,6 +123,8 @@ A Ray Tracing Demo
     </a>
 
 Ray Tracing Experiments
+  </div> 
+
  
   </td>
   <td style="text-align: center">     
@@ -129,9 +135,9 @@ Ray Tracing Experiments
 
 Chinoxel
 
-  </td>
+  </div>
 
-</tr></table></div>
+</td></tr></table>
 
 
 - [A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork) - A ray tracing demo powered by Taichi. 
@@ -162,8 +168,9 @@ Chinoxel
      </a>  
        
 2D Fluid Simulator
+   </div></td>
        
-   </td>
+   
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/ethz-pbs21/SandyFluid">
@@ -171,6 +178,7 @@ Chinoxel
     </a>
       
 SandyFluid
+   </div></td>
      
 
   </td>
@@ -181,10 +189,9 @@ SandyFluid
      </a>
        
 Taichi fvm2d fluid ns
+   </div></td>
 
-  </td>
-
-</tr></table></div>
+</tr></table>
 
 - [ASFLIP](https://github.com/nepluno/pyasflip) - An MPM method simulation implementing the ASFLIP advection method.
 - [Ant Colony](https://github.com/theAfish/Homework-2-Ant-Colony) - A simulation of the ant colony behavior.
@@ -235,8 +242,9 @@ Taichi fvm2d fluid ns
      </a>  
        
 White Boat & Yellow Duck
-      
-  </td>
+   </div></td>
+    
+  
    <td style="text-align: center">
    <div align = "center">
      <a href="https://github.com/ying-lei/little_night_lamp">
@@ -244,8 +252,8 @@ White Boat & Yellow Duck
      </a>
        
 Little Night Lamp
-       
-   </td>
+    </div></td>
+ 
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/SuperSodaSea/voxel-challenge-alpha">
@@ -253,10 +261,9 @@ Little Night Lamp
     </a>
       
 Half Broken
+   </div></td>
 
-  </td>
-
-</tr></table></div>
+</tr></table>
 
 
 - [A Tiny Jinya](https://github.com/0xrabbyte/voxel-challenge-2022) - A voxel model of a traditional building.
