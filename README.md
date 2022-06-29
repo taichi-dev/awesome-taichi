@@ -47,7 +47,7 @@ A curated list of awesome [Taichi](https://github.com/taichi-dev/taichi) applica
 ### **Math**
 
 <div style="text-align: center"><table><tr>
-  <td style="text-align: center> 
+  <td style="text-align: center"> 
    <div align = "center">
      <a href="https://github.com/AmamiyaRenn/TaichiCourseS1Hw1">
         <img height=“200” src="https://github.com/taichi-dev/awesome-taichi/blob/main/math-jpg/Jellyfish-math1%201.jpg">   
