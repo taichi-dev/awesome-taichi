@@ -220,7 +220,7 @@ Taichi fvm2d fluid ns
 - [SPH 2D Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - An SPH-based 2D fulid simulation (including WCSPH and PCISPH) implmented with Taichi.
 - [SPH Taichi](https://github.com/erizmr/SPH_Taichi) - A Taichi implementation of Smooth Particle Hydrodynamics (SPH) simulator. 
 - [Structure factor](https://github.com/donshen/structure_factor) - Calculating average structure factor from pdb files; implementing CPU-based parallelization using numba and cuda-acceleration by Taichi. 
-- [Soft object perception](https://github.com/ytimber/soft_object_perception) - Using MLS-MPM solver to simulate water/elastic/snow/sand/mud.
+- [Soft object perception](https://github.com/ytimber/soft_object_perception) - Simulation of water/elastic/snow/sand/mud using MLS-MPM method solver.
 - [Taichi Elements](https://github.com/taichi-dev/taichi_elements) - A high-performance multi-material continuum physics engine in Taichi.
 - [Taichi collisional](https://github.com/QirongZhu/taichi_collisional) - An N-body code for star cluster simulations. 
 - [Taichi-cursor-activating-snodes-demo](https://github.com/Vineyo/Taichi-cursor-activating-snodes-demo) - A visual demo of snodes' activation.
