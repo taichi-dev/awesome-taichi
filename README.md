@@ -209,7 +209,7 @@ Taichi fvm2d fluid ns
 - [MLS MPM CPIC](https://github.com/Zhijie-YU/MLS_MPM_CPIC) - An implementation of the CPIC (Compatible Particle-in-Cell) method with Taichi Lang, involving MLS-MPM and rigid body collision techniques.
 - [Mpmsim](https://github.com/KineticPayload/mpmsim) - An MPM simulator powered by Taichi for automated design and soft robotics simulation.
 - [MDSimulationRNA](https://github.com/yixiongsun/MDSimulationRNA) - A simple molecular dynamics simulation of RNA.
-- [My Taichi Practice](https://github.com/Duotun/My-Taichi-Practice) - Learning and Practice with Taichi.
+- [My Taichi Practice](https://github.com/Duotun/My-Taichi-Practice) - Learning and practice with Taichi.
 - [Positon based dynamic with Taichi](https://github.com/lyd405121/PBD) - Positon based dynamic with Taichi.
 - [Physics Simulation Learning Using Taichi](https://github.com/Morcki/cgPhysics) - Learning physics simulation using Taichi.
 - [Poisson sampling homework](https://github.com/taichi-dev/poisson-sampling-homework) - Poisson sampling algorithm simulation using Taichi.
