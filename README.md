@@ -196,7 +196,7 @@ Taichi fvm2d fluid ns
 - [Ant Colony](https://github.com/theAfish/Homework-2-Ant-Colony) - An ant colony simulation.
 - [Blender SDF Node Addon](https://github.com/hooyuser/blender_sdf_node_addon) - An add-on to provide an SDF node system for SDF rendering and SDF collisions for physics simulation.
 - [Cloth Simulation via Taichi](https://github.com/GZhonghui/tiCloth) - A cloth simulation using Taichi.
-- [Cloth simulation homework](https://github.com/taichi-dev/cloth-simulation-homework) - Cloth silmulation using mass-spring system.
+- [Cloth simulation homework](https://github.com/taichi-dev/cloth-simulation-homework) - Cloth silmulation using the mass-spring system.
 - [Computational Fluid Dynamics in Taichi](https://github.com/houkensjtu/taichi-fluid) - A collection of CFD-related resources for Taichi developers.
 - [Diffuse](https://github.com/ltt1598/--Diffuse) - Thermal diffusion simulations using explicit and implicit methods.
 - [Elastic Interaction of Particles](https://github.com/yikaiw/EIP) - A simulation of Elastic Interaction of Particles (EIP) implemented in Taichi.
