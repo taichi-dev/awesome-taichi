@@ -210,7 +210,7 @@ Taichi fvm2d fluid ns
 - [Mpmsim](https://github.com/KineticPayload/mpmsim) - An MPM simulator powered by Taichi for automated design and soft robotics simulation.
 - [MDSimulationRNA](https://github.com/yixiongsun/MDSimulationRNA) - A simple molecular dynamics simulation of RNA.
 - [My Taichi Practice](https://github.com/Duotun/My-Taichi-Practice) - Learning and practice with Taichi.
-- [Positon based dynamic with Taichi](https://github.com/lyd405121/PBD) - Positon based dynamic with Taichi.
+- [Positon based dynamic with Taichi](https://github.com/lyd405121/PBD) - Positon-based dynamics with Taichi.
 - [Physics Simulation Learning Using Taichi](https://github.com/Morcki/cgPhysics) - Learning physics simulation using Taichi.
 - [Poisson sampling homework](https://github.com/taichi-dev/poisson-sampling-homework) - Poisson sampling algorithm simulation using Taichi.
 - [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) - A hard-core CFD (Computational Fluid Dynamics) solver powered by Taichi.
