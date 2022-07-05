@@ -193,7 +193,7 @@ Taichi fvm2d fluid ns
 </tr></table>
 
 - [ASFLIP](https://github.com/nepluno/pyasflip) - An MPM method simulation implementing the ASFLIP advection method.
-- [Ant Colony](https://github.com/theAfish/Homework-2-Ant-Colony) - A simulation of the ant colony behavior.
+- [Ant Colony](https://github.com/theAfish/Homework-2-Ant-Colony) - An ant colony simulation.
 - [Blender SDF Node Addon](https://github.com/hooyuser/blender_sdf_node_addon) - This add-on provides SDF Node System for SDF Rendering and Physics Simulation with SDF Collision.
 - [Cloth Simulation via Taichi](https://github.com/GZhonghui/tiCloth) - A cloth simulation using Taichi.
 - [Cloth simulation homework](https://github.com/taichi-dev/cloth-simulation-homework) - Cloth silmulation using mass-spring system.
