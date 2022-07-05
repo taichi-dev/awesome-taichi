@@ -288,6 +288,7 @@ Half Broken
 - [Mario Theme](https://github.com/caiiy/voxel-challenge) - How to make Mario mushrooms and eggs by voxels.
 - [Minecraft-0.8.1 in memory](https://github.com/Mine-B/Minecraft-0.8.1) - A Minecraft scene created with voxels.
 - [Mountain with clouds](https://github.com/imcom/voxel-challenge) - Clouds float around the mountain peak, created with voxels.
+- [Nvidia GPU H100](https://github.com/Sicheng-Wei/Taichi_Demo) - A voxel-style 3D model of the Nvidia GPU H100.
 - [Overhead Chicken](https://github.com/xlhaw/voxel) - A cute chicken made of voxels.
 - [Panda](https://github.com/lotinosemiusomu/Panda) - A voxel-style panda with a funny facial expression.
 - [Pokémon](https://github.com/rexwangcc/taichi-voxel-challenge) - Simulating Pokémon's Poké Balls with voxels.
