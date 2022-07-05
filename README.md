@@ -223,7 +223,7 @@ Taichi fvm2d fluid ns
 - [Soft object perception](https://github.com/ytimber/soft_object_perception) - Using MLS-MPM solver to simulate water/elastic/snow/sand/mud.
 - [Taichi Elements](https://github.com/taichi-dev/taichi_elements) - A high-performance multi-material continuum physics engine in Taichi.
 - [Taichi collisional](https://github.com/QirongZhu/taichi_collisional) - An N-body code for star cluster simulations. 
-- [Taichi-cursor-activating-snodes-demo](https://github.com/Vineyo/Taichi-cursor-activating-snodes-demo) - A demo of using cursor to activate snodes.
+- [Taichi-cursor-activating-snodes-demo](https://github.com/Vineyo/Taichi-cursor-activating-snodes-demo) - A visual demo of snodes' activation.
 - [Taichi data factory](https://github.com/tooflesswulf/taichi-data-factory) - Using Taichi's legacy MLS-MPM method for fast fluid sim.
 - [Taichi flocking](https://github.com/SIGUSR97/taichi-flocking) - A simple flocking behavior simulation implemented in Taichi. 
 - [Taichi fvm2d fluid ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - An attempt to exploit the potential of Taichi language in the field of computational simulation of compressible fluids by the finite volume method.
