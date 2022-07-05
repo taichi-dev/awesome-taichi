@@ -234,7 +234,7 @@ Taichi fvm2d fluid ns
 - [Taichi PIC](https://github.com/bwzhao/TaichiPIC) - A particle-in-cell (PIC) simulation program used in plasma physics.
 - [Taichi Titanic 188](https://github.com/runck/Taichi_Titanic188) - Two fun games by using the MPM method, the brick game and the iceberg crash simulation.
 - [Taichi Tetris](https://github.com/yuanming-hu/taichi_tetris) - A Tetris game with soft-body simulation implementing the MPM method.
-- [Ti NBody](https://github.com/xuyanwen2012/ti_nbody) - NBody Simulation written in Taichi.
+- [Ti NBody](https://github.com/xuyanwen2012/ti_nbody) - N-Body simulation written in Taichi.
 
   
 
