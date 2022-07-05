@@ -198,7 +198,7 @@ Taichi fvm2d fluid ns
 - [Cloth Simulation via Taichi](https://github.com/GZhonghui/tiCloth) - A cloth simulation using Taichi.
 - [Cloth simulation homework](https://github.com/taichi-dev/cloth-simulation-homework) - Cloth silmulation using mass-spring system.
 - [Computational Fluid Dynamics in Taichi](https://github.com/houkensjtu/taichi-fluid) - A collection of CFD related resources for Taichi developers.
-- [Diffuse](https://github.com/ltt1598/--Diffuse) - In this demo, two simple discrete thermal field diffusion motions are simulated, containing explicit and implicit diffusion methods.
+- [Diffuse](https://github.com/ltt1598/--Diffuse) - Thermal diffusion simulations using explicit and implicit methods.
 - [Elastic Interaction of Particles](https://github.com/yikaiw/EIP) - A simulation of Elastic Interaction of Particles (EIP) implemented in Taichi.
 - [Graphics lab THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) - Parallelized collision detection on the GPU with a rigid body physics simulator. 
 - [Ink Painting Taichi](https://github.com/youy028/Ink_Painting_Taichi) - A simulation demo of ink paintings.
