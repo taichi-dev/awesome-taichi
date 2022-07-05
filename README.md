@@ -217,7 +217,7 @@ Taichi fvm2d fluid ns
 - [OpenClothPy](https://github.com/lyd405121/OpenClothPy) - A cloth simulation work powered by Taichi.
 - [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - A course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
 - [SandPile Model](https://github.com/darkwuta/2021_taichi_course_homework) - A dynamic sand mound model.
-- [SPH 2D Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - An SPH-based 2D fulid simulation (including WCSPH and PCISPH) implmented with Taichi.
+- [SPH 2D Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - An SPH-based 2D fulid simulation (including WCSPH and PCISPH) implemented with Taichi.
 - [SPH Taichi](https://github.com/erizmr/SPH_Taichi) - A Taichi implementation of Smooth Particle Hydrodynamics (SPH) simulator. 
 - [Structure factor](https://github.com/donshen/structure_factor) - Calculating average structure factor from pdb files; implementing CPU-based parallelization using numba and cuda-acceleration by Taichi. 
 - [Soft object perception](https://github.com/ytimber/soft_object_perception) - Simulation of water/elastic/snow/sand/mud using MLS-MPM method solver.
