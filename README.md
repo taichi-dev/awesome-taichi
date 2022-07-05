@@ -206,7 +206,7 @@ Taichi fvm2d fluid ns
 - [Karman Taichi](https://github.com/houkensjtu/karman_taichi) - Karman Taichi is an incompressible fluid solver written in the Taichi programming language. 
 - [Liquid simulation](https://github.com/lyd405121/wcsph) - Using Taichi to create SPH simulation. 
 - [LHCSim](https://github.com/Robslhc/LHCSim) - A 3D physics simulation engine based on Taichi.
-- [MLS MPM CPIC](https://github.com/Zhijie-YU/MLS_MPM_CPIC) - An implementation of the CPIC (Compatible Particle-in-Cell) method with Taichi Lang, where MLS-MPM and rigid body collision techniques are adopted.
+- [MLS MPM CPIC](https://github.com/Zhijie-YU/MLS_MPM_CPIC) - An implementation of the CPIC (Compatible Particle-in-Cell) method with Taichi Lang, involving MLS-MPM and rigid body collision techniques.
 - [Mpmsim](https://github.com/KineticPayload/mpmsim) - An MPM simulator powered by python and taichi for automated design and soft robotics simulation.
 - [MDSimulationRNA](https://github.com/yixiongsun/MDSimulationRNA) - A simple Molecular dynamics simulation of RNA.
 - [My Taichi Practice](https://github.com/Duotun/My-Taichi-Practice) - Learning and Practice with Taichi.
