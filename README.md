@@ -226,7 +226,7 @@ Taichi fvm2d fluid ns
 - [Taichi-cursor-activating-snodes-demo](https://github.com/Vineyo/Taichi-cursor-activating-snodes-demo) - A visual demo of snodes' activation.
 - [Taichi data factory](https://github.com/tooflesswulf/taichi-data-factory) - Using Taichi's legacy MLS-MPM method for fast fluid sim.
 - [Taichi flocking](https://github.com/SIGUSR97/taichi-flocking) - A simple flocking behavior simulation implemented in Taichi. 
-- [Taichi fvm2d fluid ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - An attempt to exploit the potential of Taichi language in the field of computational simulation of compressible fluids by the finite volume method.
+- [Taichi fvm2d fluid ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - An attempt to exploit the potential of Taichi-lang in computational simulation of compressible fluids with the finite volume method.
 - [TaichiGraphics2021](https://github.com/PsycoTodd/TaichiGraphics2021) - This is the side work to have fun with Taichi Graphics course 2021.
 - [Taichi HW1 EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - Jacobi method solver and Conjugate Gradient method solver.
 - [Taichi LBM3D](https://github.com/yjhp1016/taichi_LBM3D) - A 3D lattice Boltzmann solver with Multi-Relaxation-Time collision scheme and sparse storage structure implemented using Taichi programming language.
