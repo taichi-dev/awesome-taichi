@@ -232,7 +232,7 @@ Taichi fvm2d fluid ns
 - [Taichi LBM3D](https://github.com/yjhp1016/taichi_LBM3D) - A 3D lattice Boltzmann solver with Multi-Relaxation-Time collision scheme and sparse storage structure implemented using Taichi programming language.
 - [TaichiMD](https://github.com/victoriacity/taichimd) - Interactive, GPU-accelerated Molecular (& Macroscopic) Dynamics using the Taichi programming language.
 - [Taichi PIC](https://github.com/bwzhao/TaichiPIC) - A particle-in-cell (PIC) simulation program used in plasma physics.
-- [Taichi Titanic 188](https://github.com/runck/Taichi_Titanic188) - Two fun games by using the MPM method, the brick game and the iceberg crash simulation.
+- [Taichi Titanic 188](https://github.com/runck/Taichi_Titanic188) - Two fun games created with the MPM method: The brick game and the iceberg crash simulation.
 - [Taichi Tetris](https://github.com/yuanming-hu/taichi_tetris) - A Tetris game with soft-body simulation implementing the MPM method.
 - [Ti NBody](https://github.com/xuyanwen2012/ti_nbody) - N-Body simulation written in Taichi.
 
