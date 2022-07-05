@@ -147,7 +147,7 @@ Chinoxel
 - [2D SDF Generation](https://github.com/hooyuser/2D_SDF_from_mask_GPU) - Generating 2D SDF: a GPU version based on jump flooding algorithm using Taichi.
 - [Taichi SDF toy](https://github.com/knightyFF/Taichi-SDF-toy) - Messing with Taichi voxel challenge renderer in order to "learn" some Python and Taichi.
 - [Ti-raytrace](https://github.com/lyd405121/ti-raytrace) - A ray-tracing renderer implemented in Taichi.
-
+- [Taichi ray tracing](https://github.com/erizmr/taichi_ray_tracing) - A ray tracing render implemented using Taichi.
 
 
 ### **Robotics**
@@ -196,7 +196,9 @@ Taichi fvm2d fluid ns
 - [Ant Colony](https://github.com/theAfish/Homework-2-Ant-Colony) - A simulation of the ant colony behavior.
 - [Blender SDF Node Addon](https://github.com/hooyuser/blender_sdf_node_addon) - This add-on provides SDF Node System for SDF Rendering and Physics Simulation with SDF Collision.
 - [Cloth Simulation via Taichi](https://github.com/GZhonghui/tiCloth) - A cloth simulation using Taichi.
+- [Cloth simulation homework](https://github.com/taichi-dev/cloth-simulation-homework) - Cloth silmulation using mass-spring system.
 - [Computational Fluid Dynamics in Taichi](https://github.com/houkensjtu/taichi-fluid) - A collection of CFD related resources for Taichi developers.
+- [Diffuse](https://github.com/ltt1598/--Diffuse) - In this demo, two simple discrete thermal field diffusion motions are simulated, containing explicit and implicit diffusion methods.
 - [Elastic Interaction of Particles](https://github.com/yikaiw/EIP) - A simulation of Elastic Interaction of Particles (EIP) implemented in Taichi.
 - [Graphics lab THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) - Parallelized collision detection on the GPU with a rigid body physics simulator. 
 - [Ink Painting Taichi](https://github.com/youy028/Ink_Painting_Taichi) - A simulation demo of ink paintings.
@@ -206,17 +208,22 @@ Taichi fvm2d fluid ns
 - [LHCSim](https://github.com/Robslhc/LHCSim) - A 3D physics simulation engine based on Taichi.
 - [MLS MPM CPIC](https://github.com/Zhijie-YU/MLS_MPM_CPIC) - An implementation of the CPIC (Compatible Particle-in-Cell) method with Taichi Lang, where MLS-MPM and rigid body collision techniques are adopted.
 - [Mpmsim](https://github.com/KineticPayload/mpmsim) - An MPM simulator powered by python and taichi for automated design and soft robotics simulation.
+- [MDSimulationRNA](https://github.com/yixiongsun/MDSimulationRNA) - This project is a simple Molecular dynamics simulation of RNA, coded in python and rendered with PyMol.
 - [My Taichi Practice](https://github.com/Duotun/My-Taichi-Practice) - Learning and Practice with Taichi.
 - [Positon based dynamic with Taichi](https://github.com/lyd405121/PBD) - Positon based dynamic with Taichi.
 - [Physics Simulation Learning Using Taichi](https://github.com/Morcki/cgPhysics) - Learning physics simulation using Taichi.
+- [Poisson sampling homework](https://github.com/taichi-dev/poisson-sampling-homework) - Poisson sampling algorithm simulation using Taichi.
 - [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) - A hard-core CFD (Computational Fluid Dynamics) solver powered by Taichi.
+- [OpenClothPy](https://github.com/lyd405121/OpenClothPy) - A cloth simulation work powered by Taichi.
 - [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - A course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
 - [SandPile Model](https://github.com/darkwuta/2021_taichi_course_homework) - A dynamic sand mound model.
 - [SPH 2D Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - An SPH-based 2D fulid simulation (including WCSPH and PCISPH) implmented with Taichi.
 - [SPH Taichi](https://github.com/erizmr/SPH_Taichi) - A Taichi implementation of Smooth Particle Hydrodynamics (SPH) simulator. 
 - [Structure factor](https://github.com/donshen/structure_factor) - Calculating average structure factor from pdb files; implementing CPU-based parallelization using numba and cuda-acceleration by Taichi. 
+- [Soft object perception](https://github.com/ytimber/soft_object_perception) - Using MLS-MPM solver to simulate water/elastic/snow/sand/mud.
 - [Taichi Elements](https://github.com/taichi-dev/taichi_elements) - A high-performance multi-material continuum physics engine in Taichi.
 - [Taichi collisional](https://github.com/QirongZhu/taichi_collisional) - An N-body code for star cluster simulations. 
+- [Taichi-cursor-activating-snodes-demo](https://github.com/Vineyo/Taichi-cursor-activating-snodes-demo) - A demo of using cursor to activate snodes.
 - [Taichi data factory](https://github.com/tooflesswulf/taichi-data-factory) - Using Taichi's legacy MLS-MPM method for fast fluid sim.
 - [Taichi flocking](https://github.com/SIGUSR97/taichi-flocking) - A simple flocking behavior simulation implemented in Taichi. 
 - [Taichi fvm2d fluid ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - An attempt to exploit the potential of Taichi language in the field of computational simulation of compressible fluids by the finite volume method.
@@ -227,6 +234,7 @@ Taichi fvm2d fluid ns
 - [Taichi PIC](https://github.com/bwzhao/TaichiPIC) - A particle-in-cell (PIC) simulation program used in plasma physics.
 - [Taichi Titanic 188](https://github.com/runck/Taichi_Titanic188) - Two fun games by using the MPM method, the brick game and the iceberg crash simulation.
 - [Taichi Tetris](https://github.com/yuanming-hu/taichi_tetris) - A Tetris game with soft-body simulation implementing the MPM method.
+- [Ti NBody](https://github.com/xuyanwen2012/ti_nbody) - NBody Simulation written in Taichi.
 
   
 
@@ -288,6 +296,7 @@ Half Broken
 - [Mario Theme](https://github.com/caiiy/voxel-challenge) - How to make Mario mushrooms and eggs by voxels.
 - [Minecraft-0.8.1 in memory](https://github.com/Mine-B/Minecraft-0.8.1) - A Minecraft scene created with voxels.
 - [Mountain with clouds](https://github.com/imcom/voxel-challenge) - Clouds float around the mountain peak, created with voxels.
+- [Nvidia GPU H100](https://github.com/Sicheng-Wei/Taichi_Demo) - A voxel-style Nvidia GPU H100.
 - [Overhead Chicken](https://github.com/xlhaw/voxel) - A cute chicken made of voxels.
 - [Panda](https://github.com/lotinosemiusomu/Panda) - A voxel-style panda with a funny facial expression.
 - [Pokémon](https://github.com/rexwangcc/taichi-voxel-challenge) - Simulating Pokémon's Poké Balls with voxels.
