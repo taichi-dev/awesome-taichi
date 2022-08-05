@@ -151,6 +151,7 @@ Chinoxel
 
 
 ### **Robotics**
+![](https://github.com/taichi-dev/awesome-taichi/blob/main/robotics-jpg/marchingcubes%201.jpg)
 
 - [CPDeform](https://github.com/lester0866/CPDeform) - Code and data for paper Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics at ICLR 2022 (Spotlight).
 - [PlasticineLab](https://github.com/iquibalamhm/plasticine-lab-cmu) - A Soft-Body Manipulation Benchmark with Differentiable Physics.
