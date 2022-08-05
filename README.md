@@ -155,6 +155,7 @@ Chinoxel
 - [CPDeform](https://github.com/lester0866/CPDeform) - Code and data for paper Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics at ICLR 2022 (Spotlight).
 - [PlasticineLab](https://github.com/iquibalamhm/plasticine-lab-cmu) - A Soft-Body Manipulation Benchmark with Differentiable Physics.
 - [TaichiGAME](https://github.com/maksyuki/TaichiGAME) - A lightweight simulation engine in motion planning and control research fields.
+- [TaichiSLAM](https://github.com/xuhao1/TaichiSLAM) - This project is a 3D Dense mapping backend library of SLAM based on Taichi, designed for the aerial swarm.
 
 
 ### **Simulation**
@@ -232,6 +233,7 @@ Taichi fvm2d fluid ns
 - [Taichi LBM3D](https://github.com/yjhp1016/taichi_LBM3D) - A 3D lattice Boltzmann solver with Multi-Relaxation-Time collision scheme and sparse storage structure implemented using Taichi programming language.
 - [TaichiMD](https://github.com/victoriacity/taichimd) - Interactive, GPU-accelerated Molecular (& Macroscopic) Dynamics using the Taichi programming language.
 - [Taichi PIC](https://github.com/bwzhao/TaichiPIC) - A particle-in-cell (PIC) simulation program used in plasma physics.
+- [TaichiSimplicialFluid](https://github.com/yhesper/TaichiSimplicialFluid) - An interactive toy of surface flow implemented in Taichi.
 - [Taichi Titanic 188](https://github.com/runck/Taichi_Titanic188) - Two fun games created with the MPM method: The brick game and the iceberg crash simulation.
 - [Taichi Tetris](https://github.com/yuanming-hu/taichi_tetris) - A Tetris game with soft-body simulation implementing the MPM method.
 - [Ti NBody](https://github.com/xuyanwen2012/ti_nbody) - N-Body simulation written in Taichi.
