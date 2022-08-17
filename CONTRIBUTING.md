@@ -1,3 +1,5 @@
+# **Contributing Guide**
+
 
 Awesome Taichi is a collection of quality demos created by Taichi Lang users. We'll update this repo regularly, and you are strongly encouraged to share your work with us!
 
