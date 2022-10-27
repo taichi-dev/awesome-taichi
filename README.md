@@ -148,6 +148,7 @@ Chinoxel
 - [Taichi SDF toy](https://github.com/knightyFF/Taichi-SDF-toy) - Messing with Taichi voxel challenge renderer in order to "learn" some Python and Taichi.
 - [Ti-raytrace](https://github.com/lyd405121/ti-raytrace) - A ray-tracing renderer implemented in Taichi.
 - [Taichi ray tracing](https://github.com/erizmr/taichi_ray_tracing) - A few Ray Tracing demos powered by Taichi.
+- [Ray Tracing in One Weekend](https://github.com/bsavery/ray-tracing-one-weekend-taichi) - A fast python implementation of Ray Tracing in One Weekend using python and Taichi.
 
 
 ### **Robotics**
