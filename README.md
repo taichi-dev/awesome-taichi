@@ -239,6 +239,7 @@ Taichi fvm2d fluid ns
 - [Taichi Titanic 188](https://github.com/runck/Taichi_Titanic188) - Two fun games created with the MPM method: The brick game and the iceberg crash simulation.
 - [Taichi Tetris](https://github.com/yuanming-hu/taichi_tetris) - A Tetris game with soft-body simulation implementing the MPM method.
 - [Ti NBody](https://github.com/xuyanwen2012/ti_nbody) - N-Body simulation written in Taichi.
+- [FEMcy](https://github.com/mo-hanxuan/FEMcy) - A finite element solver based on Taichi, being parallel (CPU/GPU), portable and open-source.
 
   
 
