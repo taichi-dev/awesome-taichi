@@ -242,8 +242,7 @@ Taichi fvm2d fluid ns
 - [Ti NBody](https://github.com/xuyanwen2012/ti_nbody) - N-Body simulation written in Taichi.
 - [FEMcy](https://github.com/mo-hanxuan/FEMcy) - A finite element solver based on Taichi, being parallel (CPU/GPU), portable and open-source.
 - [TaichiDEM](https://github.com/Yihao-Shi/TaichiDEM/) - A high performance objected-oriented Discrete Element Method (DEM) simulator in Taichi.
-
-
+- [Taichi-BEM[(https://github.com/GeCao/taichi-BEM) - A Taichi BEM solver.
 
 
 ### **Voxel Art**
