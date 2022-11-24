@@ -149,6 +149,7 @@ Chinoxel
 - [Ti-raytrace](https://github.com/lyd405121/ti-raytrace) - A ray-tracing renderer implemented in Taichi.
 - [Taichi ray tracing](https://github.com/erizmr/taichi_ray_tracing) - A few Ray Tracing demos powered by Taichi.
 - [Ray Tracing in One Weekend](https://github.com/bsavery/ray-tracing-one-weekend-taichi) - A fast python implementation of Ray Tracing in One Weekend using python and Taichi.
+- [Taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) -A simple volumetric renderer for medical images.
 
 
 ### **Robotics**
