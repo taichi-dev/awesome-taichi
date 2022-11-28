@@ -149,7 +149,7 @@ Chinoxel
 - [Ti-raytrace](https://github.com/lyd405121/ti-raytrace) - A ray-tracing renderer implemented in Taichi.
 - [Taichi ray tracing](https://github.com/erizmr/taichi_ray_tracing) - A few Ray Tracing demos powered by Taichi.
 - [Ray Tracing in One Weekend](https://github.com/bsavery/ray-tracing-one-weekend-taichi) - A fast python implementation of Ray Tracing in One Weekend using python and Taichi.
-- [Taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) -A simple volumetric renderer for medical images.
+- [Taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) - A simple volumetric renderer for medical images.
 
 
 ### **Robotics**
@@ -243,6 +243,7 @@ Taichi fvm2d fluid ns
 - [FEMcy](https://github.com/mo-hanxuan/FEMcy) - A finite element solver based on Taichi, being parallel (CPU/GPU), portable and open-source.
 - [TaichiDEM](https://github.com/Yihao-Shi/TaichiDEM/) - A high performance objected-oriented Discrete Element Method (DEM) simulator in Taichi.
 - [Taichi-BEM[(https://github.com/GeCao/taichi-BEM) - A Taichi BEM solver.
+- [BlackHoleRayMarching](https://github.com/theAfish/BlackHoleRayMarching) - A black hole simulation based on general relativity theory.
 
 
 ### **Voxel Art**
