@@ -86,6 +86,8 @@ Taichi Math Playground
 
 - [DiffTaichi](https://github.com/taichi-dev/difftaichi) - Differentiable Programming for Physical Simulation.
 - [Stannum](https://github.com/ifsheldon/stannum) - Fusing Taichi into PyTorch.
+- [tinn](https://github.com/identxxy/tinn) - A Taichi implementation of the tiny-cuda-nn.
+
 
 ### **Optics**
 ![](optics-jpg/cameray.jpg)
@@ -150,6 +152,9 @@ Chinoxel
 - [Taichi ray tracing](https://github.com/erizmr/taichi_ray_tracing) - A few Ray Tracing demos powered by Taichi.
 - [Ray Tracing in One Weekend](https://github.com/bsavery/ray-tracing-one-weekend-taichi) - A fast python implementation of Ray Tracing in One Weekend using python and Taichi.
 - [Taichi_volume_rendering](https://github.com/xiaobo2014/taichi_volume_rendering) - A simple volumetric renderer for medical images.
+- [Facet](https://github.com/peng-bo/facet) - A Fast diamond Cut Estimator powered by Taichi.
+- [whycode](https://github.com/ElonKou/whycode) - A Taichi hackathon repo, use Taichi to achieve some visual effects.
+- [RayTracingPBR](https://github.com/HK-SHAO/RayTracingPBR) - Ray Tracing PBR for Taichi Hackathon 2022.
 
 
 ### **Robotics**
@@ -159,6 +164,8 @@ Chinoxel
 - [PlasticineLab](https://github.com/iquibalamhm/plasticine-lab-cmu) - A Soft-Body Manipulation Benchmark with Differentiable Physics.
 - [TaichiGAME](https://github.com/maksyuki/TaichiGAME) - A lightweight simulation engine in motion planning and control research fields.
 - [TaichiSLAM](https://github.com/xuhao1/TaichiSLAM) - This project is a 3D Dense mapping backend library of SLAM based on Taichi, designed for the aerial swarm.
+- [Tiouch](https://github.com/OkifuZ/Tiouch) - This project allows you to use a Touch Haptic Device to grasp and throw geometric objects in Unity. The objects are modeled by soft bodies and are implemented in Taichi.
+- [taichi-hackathon-akinasan](https://github.com/houkensjtu/taichi-hackathon-akinasan) - A self-driving car powered by Taichi.
 
 
 ### **Simulation**
@@ -242,8 +249,13 @@ Taichi fvm2d fluid ns
 - [Ti NBody](https://github.com/xuyanwen2012/ti_nbody) - N-Body simulation written in Taichi.
 - [FEMcy](https://github.com/mo-hanxuan/FEMcy) - A finite element solver based on Taichi, being parallel (CPU/GPU), portable and open-source.
 - [TaichiDEM](https://github.com/Yihao-Shi/TaichiDEM/) - A high performance objected-oriented Discrete Element Method (DEM) simulator in Taichi.
-- [Taichi-BEM[(https://github.com/GeCao/taichi-BEM) - A Taichi BEM solver.
+- [Taichi-BEM](https://github.com/GeCao/taichi-BEM) - A Taichi BEM solver.
 - [BlackHoleRayMarching](https://github.com/theAfish/BlackHoleRayMarching) - A black hole simulation based on general relativity theory.
+- [Acube](https://github.com/Ethan-Hu-min/Acube) - A game about cutting and moving the cubes, based on mpm.
+- [tiMusicFluid](https://github.com/chunleili/tiMusicFluid) - Let fluid dancing with the music. A fun fluid simulation based on Taichi.
+- [Taichi_Gravity_Sketch](https://github.com/chaoren2357/Taichi_Gravity_Sketch) - A drawing game based on Taichi, using gravity as the brush, and the universe as a canva.
+- [TiBox2d](https://github.com/Wimacs/TiBox2d) - Game oriented 2d physics engine made by Taichi.
+- [taichi_dem](https://github.com/Denver-Pilphis/taichi_dem) - A minimal DEM simulation demo written in Taichi.
 
 
 ### **Voxel Art**
