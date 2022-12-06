@@ -252,7 +252,7 @@ Taichi fvm2d fluid ns
 - [Taichi-BEM](https://github.com/GeCao/taichi-BEM) - A Taichi BEM solver.
 - [BlackHoleRayMarching](https://github.com/theAfish/BlackHoleRayMarching) - A black hole simulation based on general relativity theory.
 - [Acube](https://github.com/Ethan-Hu-min/Acube) - A game about cutting and moving the cubes, based on mpm.
-- [tiMusicFluid](https://github.com/chunleili/tiMusicFluid) - Let fluid dancing with the music. A fun fluid simulation based on Taichi.
+- [tiMusicFluid](https://github.com/chunleili/tiMusicFluid) - Make fluid dance with the music. A fun fluid simulation based on Taichi.
 - [Taichi_Gravity_Sketch](https://github.com/chaoren2357/Taichi_Gravity_Sketch) - A drawing game based on Taichi, using gravity as the brush, and the universe as a canva.
 - [TiBox2d](https://github.com/Wimacs/TiBox2d) - Game oriented 2d physics engine made by Taichi.
 - [taichi_dem](https://github.com/Denver-Pilphis/taichi_dem) - A minimal DEM simulation demo written in Taichi.
