@@ -87,6 +87,7 @@ Taichi Math Playground
 - [DiffTaichi](https://github.com/taichi-dev/difftaichi) - Differentiable Programming for Physical Simulation.
 - [Stannum](https://github.com/ifsheldon/stannum) - Fusing Taichi into PyTorch.
 - [tinn](https://github.com/identxxy/tinn) - A Taichi implementation of the tiny-cuda-nn.
+- [PAC-NeRF](https://github.com/xuan-li/PAC-NeRF) - Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification.
 
 
 ### **Optics**
