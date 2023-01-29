@@ -329,6 +329,7 @@ Half Broken
 - [Voxel My Desktop](https://github.com/neozhaoliang/voxel-challenge) - A cool voxel-style computer desk.
 - [Voxel Taichi](https://github.com/houkensjtu/qbao_voxel_art) -  A voxel-style Taichi logo.
 - [You are not alone](https://github.com/lyd405121/ti-voxel-challege) - Using SDF function to create a rabbit and other stuff.
+- [voxel-windmill](https://github.com/wenqi-wang20/voxel-windmill) - A simple rendering project in Taichi language.
 
 
 ## Courses
