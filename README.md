@@ -4,13 +4,13 @@
 <p align="center"> 
 <a href="https://github.com/taichi-dev/taichi"><img src="https://img.shields.io/github/stars/taichi-dev/taichi?label=Taichi lang&style=social"></a>
 <a href="https://www.youtube.com/channel/UCu-k1Wglo9Ll_o2j5Bxl4cw"><img src="https://img.shields.io/youtube/channel/views/UCu-k1Wglo9Ll_o2j5Bxl4cw?label=Taichi%20Graphics&style=social"></a>
-<a href="https://twitter.com/taichigraphics"><img src="https://img.shields.io/twitter/follow/taichigraphics?style=social"></a>
+<a href="https://twitter.com/taichi_lang"><img src="https://img.shields.io/twitter/follow/taichi_lang?style=social"></a>
 </p>
 
 <p align="center">
 <a href="https://www.zhihu.com/org/tai-ji-tu-xing"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-view-blue"></a>
 <a href="https://space.bilibili.com/1779922645"><img src="https://img.shields.io/badge/Bilibili-view-blue"></a>
-<a href="https://join.slack.com/t/taichicommunity/shared_invite/zt-14ic8j6no-Fd~wKNpfskXLfqDr58Tddg"><img src="https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red"></a>
+<a href="https://discord.gg/f25GRdXRfg"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/f25GRdXRfg?style=flat"></a>
 
 </p>   
 
