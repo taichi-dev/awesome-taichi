@@ -257,6 +257,7 @@ Taichi fvm2d fluid ns
 - [Taichi_Gravity_Sketch](https://github.com/chaoren2357/Taichi_Gravity_Sketch) - A drawing game based on Taichi, using gravity as the brush, and the universe as a canva.
 - [TiBox2d](https://github.com/Wimacs/TiBox2d) - Game oriented 2d physics engine made by Taichi.
 - [taichi_dem](https://github.com/Denver-Pilphis/taichi_dem) - A minimal DEM simulation demo written in Taichi.
+- [SPH-Fluid-Simulation](https://github.com/sillsill777/SPH-Fluid-Simulation) - Smoothed Particle Hydrodynamics implementation with Python.
 
 
 ### **Voxel Art**
